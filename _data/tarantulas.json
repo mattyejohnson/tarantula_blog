@@ -1,0 +1,43 @@
+[
+	{
+		"name":"Lydia",
+		"age":3,
+		"gender":"female",
+		"species":"",
+		"common name":"Costa Rican Zebra Knee",
+		"picture":"http://placekitten.com/200/300"
+	},
+	{
+		"name":"Hannibal",
+		"age":1,
+		"gender":"female",
+		"picture":"http://placekitten.com/400/330"
+	},
+	{
+		"name":"Spider McLegBoi",
+		"age":5,
+		"gender":"male",
+		"common name":"pinktoe",
+		"picture":"http://placekitten.com/400/330"
+	},
+	{
+		"name":"Stripe Ass",
+		"age":3,
+		"gender":"female",
+		"picture":"http://placekitten.com/400/330"
+	},
+	{
+		"name":"Loofah",
+		"age":1,
+		"gender":"female",
+		"common name":"Curly Hair",
+		"picture":"http://placekitten.com/400/330"
+	},
+	{
+		"name":"Freddie",
+		"age":2,
+		"gender":"female",
+		"common name":"Mexican Red Rump",
+		"picture":"http://placekitten.com/400/330"
+	}
+]
