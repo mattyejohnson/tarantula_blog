@@ -3,11 +3,19 @@ layout: post
 title:  "Meet the tarantulas"
 date:   2022-02-06 09:51:33 -0500
 categories: general
+author: mattye
 ---
 
 {% for tarantula in site.data.tarantulas  %}
 	<p>
-	<img src="{{cat.picture}}"><br/>
+	<img src="{{tarantula.picture}}"><br/>
 	{{tarantula.name}} is a {{tarantula.gender}} {{tarantula.species}} tarantula and is {{tarantula.age}} years old.
 	</p>
 {% endfor %}
+
+<style type="text/css">
+	img {
+	  rotate: 90;
+	  width: 500px;
+	}
+  </style>
