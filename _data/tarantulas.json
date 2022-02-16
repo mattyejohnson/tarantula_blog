@@ -3,26 +3,31 @@
 		"name":"Lydia",
 		"age":3,
 		"gender":"female",
-		"species":"",
-		"common name":"Costa Rican Zebra Knee",
+		"species":"Aphonopelma seemanni",
+		"commonName":"Costa Rican Zebra Knee",
 		"picture":"/img/lydia.jpg"
 	},
 	{
 		"name":"Hannibal",
 		"age":1,
 		"gender":"female",
+		"species":"Pterinochilus murinus",
+		"commonName":"Orange Baboon Tarantula",
 		"picture":"/img/hannibal.jpg"
 	},
 	{
 		"name":"Spider McLegBoi",
 		"age":5,
 		"gender":"male",
-		"common name":"pinktoe",
+		"species": "Avicularia avicularia",
+		"commonName":"Guyana Pinktoe Tarantula",
 		"picture":"/img/mclegboi.jpg"
 	},
 	{
 		"name":"Stripe Ass",
 		"age":3,
+		"species": "Psalmopoeus irminia",
+		"commonName": "Venezuelan Suntiger",
 		"gender":"female",
 		"picture":"/img/stripeass.jpg"
 	},
@@ -30,14 +35,24 @@
 		"name":"Loofah",
 		"age":1,
 		"gender":"female",
-		"common name":"Curly Hair",
+		"species":"Tliltocatl albopilosus",
+		"commonName":"Curly Hair Tarantula",
 		"picture":"/img/loofah.jpg"
 	},
 	{
 		"name":"Freddie",
 		"age":2,
 		"gender":"female",
-		"common name":"Mexican Red Rump",
+		"species":"Tliltocatl vagans",
+		"commonName":"Mexican Red Rump",
 		"picture":"/img/freddie.jpg"
+	},
+	{
+		"name":"Curly",
+		"age":6,
+		"gender":"female",
+		"species":"Tliltocatl albopilosus",
+		"commonName":"Curly Hair Tarantula",
+		"picture":"/img/curly2.jpg"
 	}
 ]

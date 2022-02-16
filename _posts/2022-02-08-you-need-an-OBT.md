@@ -17,9 +17,9 @@ Four things about OBTs:<br />
 
 <p>Appealing? Maybe not. But if you're an experienced handler, consider this list as well:</p>
 
-1. Some OBTs do a little happy dance after they kill their prey. It's adorable<br />
-2. They look like *this*: <br /> ![curly1.jpg](/img/curly1.jpg)<br />
-3. They are so angry all the time, but in an endearing way, y'know?<br />
+1. Some OBTs do a little happy murder dance after they kill their prey. It's adorable<br />
+2. They look like *this*: <br /> ![curly1.jpg](/img/hannibal.jpg)<br />
+3. They're so angry all the time, but in an endearing way, y'know?<br />
 4. You can come up with fun reasons for their names that you can tell everyone that asks about them. 
 Mine for the above tarantula is: His name is Hannibal, because he's medically significant (being eaten is somewhat medically significant, no?)<br />
 
