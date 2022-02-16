@@ -27,9 +27,6 @@ url: "https://tarantula-blog.netlify.app/" # the base hostname & protocol for yo
 email_username: "mattyejohnson@protonmail.com"
 github_username: "mattyejohnson"
 
-defaults: 
-  image: '/img/curly1.jpg'
-
 # Build settings
 theme: jekyll-theme-clean-blog
 plugins:
