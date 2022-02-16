@@ -25,6 +25,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a blog about tarantulas. 
 url: "https://tarantula-blog.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 email_username: "mattyejohnson@protonmail.com"
+github_username: "mattyejohnson"
+
+defaults: 
+  image: '/img/curly1.jpg'
 
 # Build settings
 theme: jekyll-theme-clean-blog
