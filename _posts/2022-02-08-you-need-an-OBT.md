@@ -4,6 +4,7 @@ title:  "You need an O(range)B(itey)T(hing), and here's why:"
 date:   2022-02-06 09:51:33 -0500
 categories: general
 author: mattye
+background: '/img/lydia.jpg'
 ---
 
 <p><em>(Alright, their proper common name is Orange Baboon Tarantula, but Orange Bitey Thing is more accurate)</em></p>

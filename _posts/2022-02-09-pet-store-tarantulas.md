@@ -4,6 +4,7 @@ title:  "About those pet store tarantulas..."
 date:   2022-02-06 09:51:33 -0500
 categories: general
 author: mattye
+background: '/img/lydia.jpg'
 ---
 
 <p>If you've ever visited your local Petco, Petsmart, or *insert name of local small pet store here*, it's likely

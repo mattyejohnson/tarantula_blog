@@ -4,6 +4,7 @@ title:  "Tarantula Road Trip"
 date:   2022-02-10 05:43:20 -0500
 categories: general
 author: mattye
+background: '/img/lydia.jpg'
 ---
 
 <p>Last week, I picked up a female Tliltocatl Albopilosus (common name: Curly Hair Tarantula), whose name, I learned from
