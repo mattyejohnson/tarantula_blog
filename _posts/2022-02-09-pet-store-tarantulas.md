@@ -14,7 +14,7 @@ background: '/img/lydia.jpg'
     knowledge. So, these tarantulas -- should you buy them?
 </p>
 <p>The answer to that question is completely up to you, but there are a few things worth noting: these
-    pet store tarantulas are often wild caught, of unknown age, unsexed, and somethings in poor health. Buying
+    pet store tarantulas are often wild caught, of unknown age, unsexed, and sometimes in poor health. Often, mature males are sold, which means that they are likely to die within six months. Buying
     from a reputable tarantula breeder will ensure that you know the age of your spider, and perhaps the sex,
     if the spider is large enough and the breeder has gotten hold of an intact-enough molt. 
 </p>
